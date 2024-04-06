@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "2A0EE313-58B6-4927-A029-3D4DC824CFF6": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "4BE3318C-D344-4071-B001-7F162187FCFD": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "MNISTClassifier.mlmodel",
+            "path": "com.apple.CoreML/MNISTClassifier.mlmodel"
+        },
+        "D45A80D2-C539-4914-9B41-3BF9FF2643D5": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "4BE3318C-D344-4071-B001-7F162187FCFD"
+}
